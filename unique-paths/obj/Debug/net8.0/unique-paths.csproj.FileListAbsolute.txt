@@ -1,0 +1,14 @@
+C:\source\repos\leetcode\unique-paths\bin\Debug\net8.0\unique-paths.exe
+C:\source\repos\leetcode\unique-paths\bin\Debug\net8.0\unique-paths.deps.json
+C:\source\repos\leetcode\unique-paths\bin\Debug\net8.0\unique-paths.runtimeconfig.json
+C:\source\repos\leetcode\unique-paths\bin\Debug\net8.0\unique-paths.dll
+C:\source\repos\leetcode\unique-paths\bin\Debug\net8.0\unique-paths.pdb
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.AssemblyInfoInputs.cache
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.AssemblyInfo.cs
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.csproj.CoreCompileInputs.cache
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.dll
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\refint\unique-paths.dll
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.pdb
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\unique-paths.genruntimeconfig.cache
+C:\source\repos\leetcode\unique-paths\obj\Debug\net8.0\ref\unique-paths.dll

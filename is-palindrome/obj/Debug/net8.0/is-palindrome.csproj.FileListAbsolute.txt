@@ -1,0 +1,14 @@
+C:\source\repos\leetcode\is-palindrome\bin\Debug\net8.0\is-palindrome.exe
+C:\source\repos\leetcode\is-palindrome\bin\Debug\net8.0\is-palindrome.deps.json
+C:\source\repos\leetcode\is-palindrome\bin\Debug\net8.0\is-palindrome.runtimeconfig.json
+C:\source\repos\leetcode\is-palindrome\bin\Debug\net8.0\is-palindrome.dll
+C:\source\repos\leetcode\is-palindrome\bin\Debug\net8.0\is-palindrome.pdb
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.AssemblyInfoInputs.cache
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.AssemblyInfo.cs
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.csproj.CoreCompileInputs.cache
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.dll
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\refint\is-palindrome.dll
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.pdb
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\is-palindrome.genruntimeconfig.cache
+C:\source\repos\leetcode\is-palindrome\obj\Debug\net8.0\ref\is-palindrome.dll

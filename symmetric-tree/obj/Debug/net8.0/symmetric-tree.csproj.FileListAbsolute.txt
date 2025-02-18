@@ -1,0 +1,14 @@
+C:\source\repos\leetcode\symmetric-tree\bin\Debug\net8.0\symmetric-tree.exe
+C:\source\repos\leetcode\symmetric-tree\bin\Debug\net8.0\symmetric-tree.deps.json
+C:\source\repos\leetcode\symmetric-tree\bin\Debug\net8.0\symmetric-tree.runtimeconfig.json
+C:\source\repos\leetcode\symmetric-tree\bin\Debug\net8.0\symmetric-tree.dll
+C:\source\repos\leetcode\symmetric-tree\bin\Debug\net8.0\symmetric-tree.pdb
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.AssemblyInfoInputs.cache
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.AssemblyInfo.cs
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.csproj.CoreCompileInputs.cache
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.dll
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\refint\symmetric-tree.dll
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.pdb
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\symmetric-tree.genruntimeconfig.cache
+C:\source\repos\leetcode\symmetric-tree\obj\Debug\net8.0\ref\symmetric-tree.dll

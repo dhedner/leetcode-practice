@@ -1,0 +1,14 @@
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\bin\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.exe
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\bin\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.deps.json
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\bin\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.runtimeconfig.json
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\bin\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.dll
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\bin\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.pdb
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.AssemblyInfoInputs.cache
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.AssemblyInfo.cs
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.csproj.CoreCompileInputs.cache
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.dll
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\refint\leetcode-remove-duplicates-from-sorted-array.dll
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.pdb
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\leetcode-remove-duplicates-from-sorted-array.genruntimeconfig.cache
+C:\source\repos\leetcode\leetcode-remove-duplicates-from-sorted-array\obj\Debug\net8.0\ref\leetcode-remove-duplicates-from-sorted-array.dll

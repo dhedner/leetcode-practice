@@ -1,0 +1,14 @@
+C:\source\repos\leetcode\search-insert-position\bin\Debug\net8.0\search-insert-position.exe
+C:\source\repos\leetcode\search-insert-position\bin\Debug\net8.0\search-insert-position.deps.json
+C:\source\repos\leetcode\search-insert-position\bin\Debug\net8.0\search-insert-position.runtimeconfig.json
+C:\source\repos\leetcode\search-insert-position\bin\Debug\net8.0\search-insert-position.dll
+C:\source\repos\leetcode\search-insert-position\bin\Debug\net8.0\search-insert-position.pdb
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.AssemblyInfoInputs.cache
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.AssemblyInfo.cs
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.csproj.CoreCompileInputs.cache
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.dll
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\refint\search-insert-position.dll
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.pdb
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\search-insert-position.genruntimeconfig.cache
+C:\source\repos\leetcode\search-insert-position\obj\Debug\net8.0\ref\search-insert-position.dll

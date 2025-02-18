@@ -1,0 +1,14 @@
+C:\source\repos\leetcode\leetcode-roman-to-integer\bin\Debug\net8.0\leetcode-roman-to-integer.exe
+C:\source\repos\leetcode\leetcode-roman-to-integer\bin\Debug\net8.0\leetcode-roman-to-integer.deps.json
+C:\source\repos\leetcode\leetcode-roman-to-integer\bin\Debug\net8.0\leetcode-roman-to-integer.runtimeconfig.json
+C:\source\repos\leetcode\leetcode-roman-to-integer\bin\Debug\net8.0\leetcode-roman-to-integer.dll
+C:\source\repos\leetcode\leetcode-roman-to-integer\bin\Debug\net8.0\leetcode-roman-to-integer.pdb
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.AssemblyInfoInputs.cache
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.AssemblyInfo.cs
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.csproj.CoreCompileInputs.cache
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.dll
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\refint\leetcode-roman-to-integer.dll
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.pdb
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\leetcode-roman-to-integer.genruntimeconfig.cache
+C:\source\repos\leetcode\leetcode-roman-to-integer\obj\Debug\net8.0\ref\leetcode-roman-to-integer.dll
